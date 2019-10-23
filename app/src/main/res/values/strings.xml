@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Home Shortcuts</string>
+    <string name="this_is_activity_1">This is activity 1</string>
+    <string name="this_is_activity_2">This is activity 2</string>
+    <string name="this_is_activity_3">This is activity 3</string>
+    <string name="compose_shortcut_short_label1">Short label 1</string>
+    <string name="compose_shortcut_short_label2">Short label 2</string>
+    <string name="compose_shortcut_short_label3">Short label 3</string>
+
+    <string name="compose_shortcut_long_label1">This is a really long label for screen one</string>
+    <string name="compose_shortcut_long_label2">This is a really long label for screen two</string>
+    <string name="compose_shortcut_long_label3">This is a really long label for screen three</string>
+
+    <string name="compose_disabled_message1">This shows when disabled one</string>
+    <string name="compose_disabled_message2">This shows when disabled two</string>
+    <string name="compose_disabled_message3">This shows when disabled three</string>
+</resources>
